@@ -9,7 +9,7 @@
 
 # ApartMe - Apartment Management
 
-> ### Library management project with feature such as Security, Authencation, Authorization, CRUD user, book, category,... supporting procedures for borrowing and returning books.
+> ### 
 >### See more features and details about the source code in [ApartMe](https://github.com/VMDang/ApartMe-ITSSJP1).
 ### In this project, i used Vue3, Antd Vue 4.0, PHP 8.2, Laravel 10, MySQL
 
